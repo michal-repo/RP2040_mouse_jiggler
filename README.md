@@ -32,3 +32,10 @@ By default this version requires you to ground GPIO 14 pin (you need to short pi
  - Copy content of `files` directory directly on your board's storage device
  - Program starts working immediately after copy is successful
  - **If you do not want to disable Mass Storage functionality of CircuitPython remove `boot.py` file before unplugging your board**
+
+## Additional patterns
+
+In directory `additional patterns` you can find different pattern.
+ - `windows enhance pointer precision` works with mouse setting in Windows: "Enhance pointer precision"
+ - `complex pattern` a bit more complicated pattern
+
