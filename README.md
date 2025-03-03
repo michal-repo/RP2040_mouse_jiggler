@@ -1,5 +1,10 @@
 # RP2040_mouse_jiggler
 
+## If you liked it you can support my work
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/michal-repo/random_stuff/refs/heads/main/bmac_small.png)](https://buymeacoffee.com/michaldev)
+
+
+
 Raspberry Pi Pico RP2040 board based mouse jiggler.<br><br>
 Board is detected as mouse, program is configured to move mouse every 30 seconds.
 
